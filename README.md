@@ -24,4 +24,12 @@ I am a 12th-grade student and an aspiring Software Developer. I started my codin
 - [ ] Building a professional portfolio site with clean CSS.
 - [ ] Learning how to integrate AI APIs into my projects.
 
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-singh-851a09375)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/941354318714503239)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lab.shreyansh.singh@gmail.com)
+
 
