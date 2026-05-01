@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Shreyansh Singh
+# 👋 Hi there! I'm Shreyansh Singh
 
 I am a 12th‑grade student and an aspiring **Cybersecurity & Software Developer**.  
 I started my coding journey in 9th grade, and since then I’ve been exploring how technology can be built, broken, and secured.
