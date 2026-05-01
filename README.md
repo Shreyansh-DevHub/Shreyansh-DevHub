@@ -1,5 +1,3 @@
-# Shreyansh-DevHub / README.md
-
 ## 👋 Hi there! I'm Shreyansh Singh
 
 I am a 12th‑grade student and an aspiring **Cybersecurity & Software Developer**.  
