@@ -26,17 +26,14 @@ I started my coding journey in 9th grade, and since then I’ve been exploring h
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)]()
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
-[![Nmap](https://img.shields.io/badge/Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white)]()
+
 
 ---
 
 ## 🧩 What I'm Working On
 
 ☑ Building Python scripts for password hashing and log analysis.  
-☑ Practicing with Kali Linux tools like `nmap` and `john` to understand vulnerabilities.  
 ☑ Designing a secure portfolio site with clean CSS and basic security hardening.  
-☑ Learning how to integrate AI APIs into projects for threat detection.
 
 ---
 
