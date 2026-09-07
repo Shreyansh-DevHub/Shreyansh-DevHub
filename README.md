@@ -1,7 +1,7 @@
 👋 Hi there! I'm Shreyansh Singh
 ================================
 
-I’m a 12th‑grade student and an aspiring **Software & Cybersecurity Developer**.  
+Aspiring **Software & Cybersecurity Developer**.  
 I started coding in 9th grade, and now I’m learning how to build real projects in C++ and JavaScript while exploring how systems can be attacked and defended.
 
 🎯 Tags
