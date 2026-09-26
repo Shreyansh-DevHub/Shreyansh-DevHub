@@ -53,6 +53,20 @@ I keep most of my work public to track my progress and share what I’m learning
 
 As I improve, I’m turning these into more polished, documented projects with clearer READMEs and screenshots.
 
+Major Projects
+--------------
+
+Welcome to my project portfolio! Below are some of the major projects I have worked on. Click on the titles to view the source code.
+
+## Featured Projects
+
+* **[AI-HAR On-board BAS Experiment](https://github.com/Shreyansh-DevHub/AI-HAR-_On-board_BAS_Experiment)**
+
+* **[ROOTED Farm Analysis App](https://github.com/Shreyansh-DevHub/ROOTED-farm-analysis-app)**
+
+* **[Lotus Management Project](https://github.com/Shreyansh-DevHub/lotus-management-project)**
+
+
 🎯 Goals
 --------
 
