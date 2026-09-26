@@ -1,15 +1,15 @@
-👋 Hi there! I'm Shreyansh Singh
+Hi there! I'm Shreyansh Singh
 ================================
 
 Aspiring **Software & Cybersecurity Developer**.  
 I started coding in 9th grade, and now I’m learning how to build real projects in C++ and JavaScript while exploring how systems can be attacked and defended.
 
-🎯 Tags
+Tags
 -------
 
 12th-grade student · C++ developer · JavaScript & Electron learner · Cybersecurity enthusiast · Desktop & web projects · DSA & LeetCode (soon) · VS Code · Git · GitHub
 
-🛡️ Tech & Tools
+Tech & Tools
 ----------------
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
@@ -19,7 +19,7 @@ I started coding in 9th grade, and now I’m learning how to build real projects
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-🐧 OS & Security
+OS & Security
 ----------------
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -28,13 +28,13 @@ I started coding in 9th grade, and now I’m learning how to build real projects
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-🧰 IDEs & Tools
+IDEs & Tools
 ---------------
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-🚀 What I’m doing right now
+What I’m doing right now
 ---------------------------
 
 - Learning C++ as my main language for DSA and core computer science.
@@ -42,7 +42,7 @@ I started coding in 9th grade, and now I’m learning how to build real projects
 - Exploring cybersecurity basics (network security, password hashing, log analysis) as a student learner.
 - Planning to start LeetCode with easy problems once my DSA basics are more solid.
 
-📂 Projects & Repositories
+Projects & Repositories
 --------------------------
 
 I keep most of my work public to track my progress and share what I’m learning:
@@ -53,10 +53,6 @@ I keep most of my work public to track my progress and share what I’m learning
 
 As I improve, I’m turning these into more polished, documented projects with clearer READMEs and screenshots.
 
-Major Projects
---------------
-
-Welcome to my project portfolio! Below are some of the major projects I have worked on. Click on the titles to view the source code.
 
 ## Featured Projects
 
@@ -67,7 +63,7 @@ Welcome to my project portfolio! Below are some of the major projects I have wor
 * **[Lotus Management Project](https://github.com/Shreyansh-DevHub/lotus-management-project)**
 
 
-🎯 Goals
+Goals
 --------
 
 - Build a strong foundation in C++ and DSA before and during my first year of college.
