@@ -4,6 +4,12 @@ Hi there! I'm Shreyansh Singh
 Aspiring **Software & Cybersecurity Developer**.  
 I started coding in 9th grade, and now I’m learning how to build real projects in C++ and JavaScript while exploring how systems can be attacked and defended.
 
+
+<div align="center">
+  <img src="https://githubusercontent.com" width="300" alt="Spinning Donut" />
+</div>
+
+
 Tags
 -------
 
