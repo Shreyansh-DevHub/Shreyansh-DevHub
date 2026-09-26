@@ -6,7 +6,7 @@ I started coding in 9th grade, and now I’m learning how to build real projects
 
 
 <div align="center">
-  <img src="https://githubusercontent.com" width="300" alt="Spinning Donut" />
+  <img src="donut.gif" width="300" alt="Spinning Donut" />
 </div>
 
 
