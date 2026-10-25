@@ -76,6 +76,7 @@ I keep most of my work public to track my progress and share what I'm learning:
 
 - [`C_plus_plus__projects`](https://github.com/Shreyansh-DevHub/C_plus_plus__projects) – C++ practice projects and mini apps.
 - [`JavaScript`](https://github.com/Shreyansh-DevHub/JavaScript) – small JS apps and experiments as I learn frontend and basic logic.
+- [`React-JS`](https://github.com/Shreyansh-DevHub/React-JS) – React practice projects: clock, to-do list, counter, color picker and more.
 - [`Python`](https://github.com/Shreyansh-DevHub/Python) – 10 small Tkinter GUI apps, including a folder organizer and a Pomodoro timer.
 - [`Machine_Learning`](https://github.com/Shreyansh-DevHub/Machine_Learning) – machine learning practice projects and experiments.
 - [`Java`](https://github.com/Shreyansh-DevHub/Java) – core Java learning roadmap and beginner projects.
