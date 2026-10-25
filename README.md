@@ -1,31 +1,35 @@
 Hi there! I'm Shreyansh Singh
 ================================
- 
-**Software Developer & Cybersecurity Learner**   
+
+**Software Developer & Cybersecurity Learner**  
 I build things, then learn how to break them, so what I ship holds up.
- 
+
 First-year **B.Tech CSE** student  
-- Coding since 9th grade, now turning that habit into real desktop apps, web apps and AI experiments
- 
- 
+Coding since 9th grade, now turning that habit into real desktop apps, web apps and AI experiments
+
+
 <div align="center">
   <img src="donut.gif" width="300" alt="Spinning Donut" />
 </div>
- 
-## What I do
- 
+
+
+What I do
+-----------
+
 - Build desktop and web projects in **C++**, **JavaScript**, **React** and **Electron**
 - Explore **Java**, **Go** and **machine learning with PyTorch**
 - Practice **DSA** to build strong core computer science fundamentals
-## What I'm exploring
- 
+
+What I'm exploring
+--------------------
+
 - Network security, password hashing and log analysis
 - How systems get attacked, and how to defend them
 
 Tags
 -------
 
-12th-grade student · C++ developer · Java · Go (Golang) · Machine Learning with PyTorch · JavaScript, React.js & Electron learner · Cybersecurity enthusiast · Desktop & web projects · DSA & LeetCode · VS Code · Git · GitHub
+B.Tech CSE student · C++ developer · Java · Go (Golang) · Machine Learning with PyTorch · JavaScript, React.js & Electron learner · Cybersecurity enthusiast · Desktop & web projects · DSA & LeetCode · VS Code · Git · GitHub
 
 Tech & Tools
 ----------------
@@ -56,7 +60,7 @@ IDEs & Tools
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 
-What I’m doing right now
+What I'm doing right now
 ---------------------------
 
 - Learning C++ as my main language for DSA and core computer science.
@@ -67,16 +71,19 @@ What I’m doing right now
 Projects & Repositories
 --------------------------
 
-I keep most of my work public to track my progress and share what I’m learning:
+I keep most of my work public to track my progress and share what I'm learning:
 
-- `C_plus_plus__projects` – C++ practice projects and mini apps.
-- `JavaScript` – small JS apps and experiments as I learn frontend and basic logic.
-- `CyberSecurity` – notes, scripts, and experiments related to security fundamentals.
+- [`C_plus_plus__projects`](https://github.com/Shreyansh-DevHub/C_plus_plus__projects) – C++ practice projects and mini apps.
+- [`JavaScript`](https://github.com/Shreyansh-DevHub/JavaScript) – small JS apps and experiments as I learn frontend and basic logic.
+- [`Java`](https://github.com/Shreyansh-DevHub/Java) – core Java learning roadmap and beginner projects.
+- [`GoLang`](https://github.com/Shreyansh-DevHub/GoLang) – Go fundamentals and practice code.
+- [`CyberSecurity`](https://github.com/Shreyansh-DevHub/CyberSecurity) – CompTIA Network+ and Security+ notes plus hands-on Python projects.
 
-As I improve, I’m turning these into more polished, documented projects with clearer READMEs and screenshots.
+As I improve, I'm turning these into more polished, documented projects with clearer READMEs and screenshots.
 
 
-## Featured Projects
+Featured Projects
+--------------------
 
 * **[AI-HAR On-board BAS Experiment](https://github.com/Shreyansh-DevHub/AI-HAR-_On-board_BAS_Experiment)**
 
@@ -88,12 +95,13 @@ As I improve, I’m turning these into more polished, documented projects with c
 Goals
 --------
 
-- Build a strong foundation in C++ and DSA before and during my first year of college.
+- Build a strong foundation in C++ and DSA during my first year of college and beyond.
 - Use JavaScript and Electron for personal productivity tools and small desktop apps.
-- Gradually move into deeper cybersecurity topics once my basics are solid.
+- Ship one polished security project, then grow into deeper cybersecurity work.
 
 
-## 🌐 Connect with Me
+Connect with Me
+------------------
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyansh-singh-851a09375)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/941354318714503239)
