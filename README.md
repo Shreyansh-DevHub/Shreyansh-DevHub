@@ -1,14 +1,26 @@
 Hi there! I'm Shreyansh Singh
 ================================
-
-Aspiring **Software & Cybersecurity Developer**.  
-I started coding in 9th grade, and now I’m learning how to build real projects in C++ and JavaScript while exploring how systems can be attacked and defended.
-
-
+ 
+**Software Developer & Cybersecurity Learner**   
+I build things, then learn how to break them, so what I ship holds up.
+ 
+🎓 First-year **B.Tech CSE** student  
+⌨️ Coding since 9th grade, now turning that habit into real desktop apps, web apps and AI experiments
+ 
+ 
 <div align="center">
   <img src="donut.gif" width="300" alt="Spinning Donut" />
 </div>
-
+ 
+## What I do
+ 
+- Build desktop and web projects in **C++**, **JavaScript**, **React** and **Electron**
+- Explore **Java**, **Go** and **machine learning with PyTorch**
+- Practice **DSA** to build strong core computer science fundamentals
+## What I'm exploring
+ 
+- Network security, password hashing and log analysis
+- How systems get attacked, and how to defend them
 
 Tags
 -------
