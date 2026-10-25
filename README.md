@@ -4,8 +4,8 @@ Hi there! I'm Shreyansh Singh
 **Software Developer & Cybersecurity Learner**   
 I build things, then learn how to break them, so what I ship holds up.
  
-🎓 First-year **B.Tech CSE** student  
-⌨️ Coding since 9th grade, now turning that habit into real desktop apps, web apps and AI experiments
+First-year **B.Tech CSE** student  
+- Coding since 9th grade, now turning that habit into real desktop apps, web apps and AI experiments
  
  
 <div align="center">
