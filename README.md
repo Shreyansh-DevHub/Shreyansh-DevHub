@@ -35,6 +35,7 @@ Tech & Tools
 ----------------
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -75,9 +76,12 @@ I keep most of my work public to track my progress and share what I'm learning:
 
 - [`C_plus_plus__projects`](https://github.com/Shreyansh-DevHub/C_plus_plus__projects) – C++ practice projects and mini apps.
 - [`JavaScript`](https://github.com/Shreyansh-DevHub/JavaScript) – small JS apps and experiments as I learn frontend and basic logic.
+- [`Python`](https://github.com/Shreyansh-DevHub/Python) – 10 small Tkinter GUI apps, including a folder organizer and a Pomodoro timer.
+- [`Machine_Learning`](https://github.com/Shreyansh-DevHub/Machine_Learning) – machine learning practice projects and experiments.
 - [`Java`](https://github.com/Shreyansh-DevHub/Java) – core Java learning roadmap and beginner projects.
 - [`GoLang`](https://github.com/Shreyansh-DevHub/GoLang) – Go fundamentals and practice code.
 - [`CyberSecurity`](https://github.com/Shreyansh-DevHub/CyberSecurity) – CompTIA Network+ and Security+ notes plus hands-on Python projects.
+- [`My_Coding_Journey`](https://github.com/Shreyansh-DevHub/My_Coding_Journey) – where it started: my early code from Grade 9 and Grade 10.
 
 As I improve, I'm turning these into more polished, documented projects with clearer READMEs and screenshots.
 
